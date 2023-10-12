@@ -144,4 +144,5 @@ xz=5.2.6=hca72f7f_0
 zeromq=4.3.4=h23ab428_0
 zipp=3.8.0=py39hecd8cb5_0
 zlib=1.2.12=h4dc903c_3
-zstd=1.5.2=hcb37349_0
+zstd=1.5.2=hcb37349_0******
+#zstd=1.5.2=hcb37349_0
